@@ -1,6 +1,6 @@
-# PlantIQ – AI-Powered Plant Disease Detection App
+# KisaanYuva – AI-Powered Application for the farmers
 
-**PlantIQ** is a powerful, user-friendly mobile application that helps you identify plant diseases using the latest AI advancements. Simply upload or capture an image of your plant, and let PlantIQ analyze it using Google's Gemini API. The app also offers multilingual support, real-time agricultural news, and a built-in chatbot for guidance and support.
+**KisaanYuva** is a powerful, user-friendly mobile application that helps you identify plant diseases using the latest AI advancements. Simply upload or capture an image of your plant, and let PlantIQ analyze it using Google's Gemini API. The app also offers multilingual support, real-time agricultural news, and a built-in chatbot for guidance and support.
 
 ---
 
